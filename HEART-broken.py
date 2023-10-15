@@ -68,7 +68,7 @@ def o():
         os.system('xdg-open https://www.facebook.com/profile.php?id=61551894643643&mibextid=ZbWKwL')
         return None
     if opt == '3':
-        os.system('xdg-open https://youtube.com/@ILYAS_II?si=rIP7M3o7JuX92C8b)
+        os.system('xdg-open https://youtube.com/@ILYAS_II?si=rIP7M3o7JuX92C8b')
         return None
     if opt == '4':
         os.system('xdg-open https://chat.whatsapp.com/DmQsXgLf46RLvavWb6y7Y0')
